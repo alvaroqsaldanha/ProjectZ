@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfecd81641c59f948a6f531ce16e1666, type: 3}
+  m_Name: Uzi
+  m_EditorClassIdentifier: 
+  WeaponName: Uzi
+  damage: 15
+  firerate: 6
+  artwork: {fileID: 21300000, guid: 81a15163d240cb24da8adf961395912c, type: 3}
+  img: {fileID: 21300000, guid: 6c3bd6685646aba42854728bcc4a0d3d, type: 3}
+  scale: {x: 0.2117315, y: 0.182648, z: 0}
+  shotSound: {fileID: 8300000, guid: d5d3112366cd62d4e9d163689cd10fe6, type: 3}
+  bulletPrefab: {fileID: 3639804519187869054, guid: 56716603fe6339547a55fcee521c76ce,
+    type: 3}
